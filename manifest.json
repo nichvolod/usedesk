@@ -1,7 +1,7 @@
 {
   "vendor": "acceleratorusedesk",
   "name": "usedeskwidget",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "title": "UseDesk",
   "description": "20 communication channels, all messengers, mail, calls, social networks are now just a click away",
   "builders": {
