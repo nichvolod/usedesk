@@ -1,2 +1,0 @@
-# usedesk
-Usedesk Widget
