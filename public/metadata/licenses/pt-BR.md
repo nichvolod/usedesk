@@ -1,154 +1,66 @@
-### Termos e Condições de Uso de Aplicativo
+####Last revised and effective as of: February 16, 2017
 
-##### Atualizado em 09/09/2020.
+These Terms of Service are a contract between you and Usedesk LLC. (referred to in these Terms of Service as "Usedesk", "us", "we" or "our"), the provider of the Usedesk website and the services accessible from the Usedesk website (which are collectively referred to in these Terms of Service as the "Usedesk Service").
 
-Estes Termos e Condições de Uso de Aplicativo ( “Termos”) regulamentam o uso dos aplicativos web disponibilizados gratuitamente, ou não, pela COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE S.A. com sede na cidade de São Paulo, Estado de São Paulo, na Avenida Faria Lima, nº 4440, 10º andar, Itaim Bibi, CEP 04538-132, inscrita no CNPJ/MF sob o n. 05.314.972/0001-74, doravante denominada “VTEX”, aos seus clientes (“Clientes VTEX”), e seu uso está condicionado à integral aceitação dos termos e condições de uso transcritos abaixo, bem como do respectivo Master Services Agreement (“MSA”) firmado entre a VTEX e o Cliente VTEX
+You are agreeing to be bound by these Terms of Service. If you do not agree to these Terms of Service, please do not use the Usedesk Service. In these Terms of Service, "you" refers both to you as an individual and to the entity you represent. If you violate any of these Terms of Service, we reserve the right to cancel your account or block access to your account without notice.
 
-Para acessar, usar, ou instalar o APP, o Usuário (conforme adiante definido) do APP expressamente declara que, por sua livre e espontânea vontade, leu, está ciente e aceita todas as disposições presentes nestes Termos.
+### Your Account
 
-Caso o Usuário seja menor de idade ou declarado incapaz em quaisquer aspectos, precisará da permissão dos responsáveis legais, os quais também deverão concordar com estes Termos.
+Eligibility. Your account must be registered by a human. Accounts registered by "bots" or other automated methods are not permitted. Additionally, you must be 13 years of age or older.
+Registration Information. You must provide a valid permanant email address, along with any other information required by Usedesk during the registration process. One person or legal entity may not maintain more than one free account.
+Password. You are responsible for maintaining the security of your account and password. We will not be liable for any loss or damage from your failure to comply with this security obligation. Personally identifiable information submitted by you will be subject to our Privacy Policy.
+Restrictions. You may not use the Usedesk Service for any illegal or unauthorized purpose. You must not, in the use of the Usedesk Service, violate any laws in your jurisdiction, including, among other things, by:
+distributing any virus, time bomb, trap door, or other harmful or disruptive computer code, mechanism or program;
+covering or obscuring any notice, legend, warning or banner contained on the Usedesk Service;
+interfering with or circumventing any security feature of the Usedesk Service or any feature that restricts or enforces limitations on use of or access to the Usedesk Service;
+infringing or violating the rights of any other party, including without limitation any intellectual property rights, including copyright laws, or rights of privacy or publicity
+being obscene, offensive, pornographic, fraudulent, deceptive, defamatory, threatening, harassing, abusive, slanderous, hateful, or causing embarrassment to any other person as determined by Usedesk in its sole discretion; or
+deliberately misleading anyone as to your identity, impersonating another, or falsely identifying the source of any information.
 
-Sem prejuízo do disposto nestes Termos, o Usuário deverá observar todos os demais contratos, termos e condições que regulamentem a sua relação com a VTEX, inclusive, mas não limitado ao Master Services Agreement (conforme adiante definido) disponível em [https://vtex.com/us-en/agreements/](https://vtex.com/us-en/agreements/)
+### Payment, Refunds, Upgrading and Downgrading
 
-### 1. DEFINIÇÕES GERAIS
+A valid credit card is required for paying accounts unless your company pays for services annually, in which case payment via invoice is acceptable. Free accounts are not required to provide a credit card number.
 
-1.1. Nestes Termos, a menos que expressamente indicado ou em razão do contexto: (a) referência ao singular inclui a referência ao plural e vice-versa e a referência ao gênero masculino inclui referência ao gênero feminino e vice-versa; (b) referência a uma disposição de lei é também referência a tal disposição conforme alterada ou consolidada; (c) os termos “incluindo”, “incluem” e “inclui” serão considerados como sendo seguidos da frase “sem limitação’” ou “mas não limitado a”; e (d) cabeçalhos e títulos das disposições destes Termos são meramente para fins de referência e não afetam a sua interpretação.
+The Usedesk Service is billed in advance in accordance with our pricing schedule. If you are unhappy with the Usedesk Service for any reason and choose to downgrade or cancel, we will refund up to two months of charges to your account. There will be no refunds or credits for partial months of service, annual payments, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.
 
-1.2. As seguintes palavras e expressões, quando utilizadas nestes Termos terão os seguintes significados:
+All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you will be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) income taxes. You agree to pay for any taxes that might be applicable to your use of the Usedesk Service or payments made by you in connection with your use of the Usedesk Service.
 
-“APP”: significa um aplicativo web desenvolvido e disponibilizado pela VTEX aos seus Clientes disponível na [APP Store da VTEX](http://apps.vtex.com) para ser instalado, gratuitamente, ou mediante pagamento por meio de assinatura ou pagamento por utilização, conforme apresentado na instalação do APP, como ferramenta de extensão à Plataforma VTEX.
+### Violation of these Terms of Service
 
-“VTEX App Store”: significa um ambiente online repositório de aplicativos de web desenvolvidos pela VTEX ou por terceiros, acessado por meio do link ([apps.vtex.com](http://apps.vtex.com)).
+We reserve the right to investigate and prosecute violations of any of these Terms of Service to the fullest extent of the law. We may involve and cooperate with law enforcement authorities in prosecuting Users who violate the Terms of Service. You acknowledge that Usedesk has no obligation to prescreen or monitor your access to or use of the Usedesk Service or any information, materials or other content provided or made available through the Usedesk Service, but has the right to do so. You hereby agree that Usedesk may, in the exercise of our sole discretion, remove or delete any data, accounts or other content that violates these Terms of Service or that is otherwise objectionable. Cancellation
 
-“Dados Pessoais”: significam quaisquer dados do Usuário relacionados a uma pessoa natural identificada ou identificável na medida em que essa informação seja protegida como sendo dado pessoal nos termos das Leis de Proteção de Dados.
+You are solely responsible for properly canceling your account. As a security precaution, an email or phone request to cancel or make changes to your account will not result in cancellation. You can cancel your account at any time from the "Your Plan" page. The Account Owner, and in some cases Administrators with permission, are the only Users with access to this page.
 
-“Leis de Proteção de Dados”: significam todas as leis e regulamentos, inclusive as regulamentações vinculantes do Brasil, Estados Unidos da América, União Europeia, Área Econômica Europeia e seus estados membro, Suíça e Reino Unido, aplicáveis ao Processamento de Dados Pessoais no âmbito destes Termos.
+Any cancellation of your account will result in the deactivation or deletion of your account, and the removal of all content in your account. This information can be restored by request of the Account Owner to Usedesk for a 14-day period. Cancelled accounts cannot be recovered or restored from Usedesk following this 14-day period. Please be aware that we may for a time retain residual account information in our backup and/or archival copies of our database. We will make reasonable commercial efforts to delete your information as soon as possible after you communicate that intention to us.
 
-“Master Services Agreement” significa o Contrato firmado entre o Cliente, representado pelo Usuário, e a VTEX.
+Cancellations will take effect immediately. If you wish to continue using your account through the end of a billing cycle, please do not cancel until the billing cycle is completed. Termination
 
-“Processamento”: significa qualquer operação ou conjunto de operações que envolva Dados Pessoais, por meios automáticos ou não, tais como coleta, gravação, organização, estruturação, armazenamento, adaptação ou alteração, recuperação, consulta, uso, divulgação, por transmissão e disseminação.
+Usedesk reserves the right to terminate any free accounts that do not have any activity (replies or logins) for sixty (60) days, or trial accounts without a payment method thirty (30) days after expiration.
 
-“Plataforma VTEX”: significa o software de soluções online para _e-commerce_ de propriedade da VTEX para companhias que promovam e vendam produtos ou serviços online.
+Usedesk, in its sole discretion, has the right to suspend or terminate your account if you breach these Terms of Service. Any termination of your account will result in the deactivation or deletion of your account, denied access to your account, and the removal of all content in your account. Modifications to the Usedesk Site and Prices
 
-“Serviços” significam os serviços disponibilizados pelos APPs com intuito de adicionar novas funcionalidades à Plataforma VTEX;
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Usedesk Service (or any part thereof) with or without notice. However, we will make our very best efforts to notify customers of any upcoming system maintenance and/or service disruptions. Prices of all Usedesk Service plans are subject to change. If Usedesk does for any reason have to remove the plan you are on or require an upgrade to a current plan, we will provide you with at least three (3) months notice via email.
 
-“Termos”: significam os Termos e Condições de Uso de Aplicativo que regulam a relação entre VTEX e Usuário.
+We will not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Usedesk Service.
 
-“Usuário”: significa um Cliente VTEX signatário do Master Services Agreement usuário do APP, autorizado pelo Cliente, em seu nome, ou como representante de uma pessoa jurídica, o qual irá realizar a instalação do aplicativo, cadastro de informações tais como, mas não se limitando a logo da loja, descrição, país, segmento, tipo de loja, comissão, _account_, nome, e-mail e telefone para compartilhamento com outros usuários do APP.
+We reserve the right, in our sole discretion, to change, modify, add to, supplement or delete any portion of these Terms of Service at any time, effective with or without prior notice; provided, however, that we will use reasonable efforts to provide you with notification of any material changes (as determined in our sole discretion) by email.
 
-### 2. OBJETIVO
+If any future changes to these Terms of Service are unacceptable to you or cause you to no longer be in compliance, you must immediately stop using the Usedesk Service. Your continued use of the Usedesk Service following any revision to this Agreement constitutes your complete acceptance of any and all such changes. Any new features that augment or enhance the current Usedesk Service, including the release of new tools and resources, will be subject to these Terms of Service. Intellectual Property and Content Ownership
 
-2.1. Estes Termos têm por finalidade regular o uso do APP pelo Usuário.
+We claim no ownership rights over the content submitted or created exclusively by you in your Usedesk Service account. Any content that is yours remains yours. These Terms of Service do not grant us any licenses or rights to your content except for the limited rights needed for us to provide the Usedesk Service to you.
 
-2.2. A Plataforma VTEX disponibiliza a [VTEX APP Store](http://apps.vtex.com) na qual estão disponíveis diversos APPs que poderão ser instalados e acessados pelos Usuários. O Usuário que pretenda instalar e acessar o APP deverá ter uma conta VTEX devidamente cadastrada, mediante disponibilização de seus Dados Pessoais e/ou dados das pessoas jurídicas que o Usuário represente para fins de cadastro.
+The contents of the Usedesk Service are copyrighted under the Russian Federation copyright laws (© 2016 - Usedesk LLC). Usedesk, and the Usedesk logos, are trademarks of Usedesk and may not be used without our express written permission. You may not duplicate, copy, or reuse any portion of the HTML/CSS or visual design elements without express written permission. You do not acquire any ownership rights by using the Usedesk Service. Account Access
 
-2.3. O Usuário declara, sob as penas da lei, estar ciente sobre a contratação dos Serviços, bem como que todas as informações por ele cadastradas no APP são verdadeiras, responsabilizando-se integral e exclusivamente por toda e qualquer informação fornecida, bem como por todas as contratações de APP que efetuar na Plataforma VTEX em seu nome, ou no nome de qualquer empresa que represente. A VTEX não será responsável por qualquer prejuízo causado por um usuário não autorizado. Em caso de uso não autorizado contatar a VTEX.
+In some cases, it is necessary for Usedesk employees to access your account and content in order to diagnose a problem. When you contact our support team, it is implied that you are allowing Usedesk employees to access your account if necessary, in order to be helpful. If you wish to receive assistance without granting permission to your account, please specify as much in your communication with our support team and those requests will be honored to the extent possible. Indemnification
 
-2.4. O Usuário reconhece, ainda, que estes Termos devem ser observados e fielmente cumpridos sob pena de cancelamento, bloqueio de utilização do APP e demais medidas cabíveis, independente de aviso prévio. A VTEX se reserva a tomar as medidas aqui expostas mesmo em casos de suspeita ou ameaça de violação dos Termos.
+You agree to indemnify and hold Usedesk, its parents, subsidiaries, affiliates, officers, partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the Usedesk Service, use of your account by any third party, your violation of these Terms of Service, or any infringement by you or any third party using your account. Disclaimer
 
-2.5. É vedado ao Usuário remover, ocultar ou alterar quaisquer informações, notícias, avisos, logotipos, marcas ou quaisquer materiais protegidos pela legislação vigente exibidos no APP.
+The Usedesk Service and its contents are provided "as is" and "as available" without any warranty or representations of any kind, whether express or implied. Usedesk is a distributor and not a publisher of the content supplied by third parties; as such, Usedesk exercises no editorial control over such content and makes no warranty or representation as to the accuracy, reliability or currency of any information, content, service or merchandise provided through or accessible via the Usedesk Service. Without limiting the foregoing, Usedesk specifically disclaims all warranties and representations in any content transmitted on or in connection with the Usedesk Service or on sites that may appear as links on the Usedesk Service, or in the products provided as a part of, or otherwise in connection with, the Usedesk Service, including without limitation any warranties of merchantability, fitness for a particular purpose or non-infringement of third party rights. No oral advice or written information given by Usedesk or any of its affiliates, employees, officers, directors, agents, or the like will create a warranty. Price and availability information is subject to change without notice. Without limiting the foregoing, Usedesk does not warrant that the Usedesk Service will be uninterrupted, uncorrupted, timely, or error-free. Limitation of Liability
 
-1.  **PROTEÇÃO DE DADOS PESSOAIS**
+Usedesk will not be liable for any indirect, incidental, special, exemplary or consequential damages, lost profits, lost data, or business interruption, in any way whatsoever arising out of the use of, or inability to use, the Usedesk Service, whether or not Usedesk is advised of the possibility of such damages. You acknowledge and agree that Usedesk's maximum liability to you will not exceed the amount you have paid Usedesk in the sixty (60) days immediately preceding the date on which you first assert a claim.
 
-3.1. A VTEX realizará o Processamento de Dados Pessoais disponibilizados no APP de acordo com as Leis de Proteção de Dados aplicáveis. Todos os colaboradores e empregados da VTEX com acesso aos Dados Pessoais são considerados como vinculados por escrito a manter a confidencialidade de tais Dados Pessoais.
+To the fullest extent permitted by law, these disclaimers and limitations of liability apply to any and all damages or injury whatsoever caused by or related to use of, or inability to use, the Usedesk Service under any cause or action whatsoever of any jurisdiction, including, without limitation, actions for breach of warranty, breach of contract or tort (including negligence). Jurisdiction and Venue
 
-3.2. O Usuário declara que leu, está ciente e aceita o disposto na Política de Privacidade da VTEX, a qual constitui parte integrante dos presentes Termos, conforme disposto em sua integralidade no seguinte link: [https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy](https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy).
+These Terms of Service and any controversy, claim or dispute arising under or related to these Terms of Service will be construed, pursued and resolved in accordance with and will be governed by the laws of the Russian Federation without regard to its conflicts of laws provisions. You irrevocably consent to the exclusive jurisdiction of the courts of Moscow, Russia and the federal courts situated in Moscow in connection with any action or dispute arising between the parties under or in connection with these Terms of Service. Miscellaneous
 
-3.3. O Usuário concorda que as rotinas de acesso ao APP poderão ser gravadas e monitoradas pela equipe de desenvolvimento da VTEX e que todas as informações e dados fornecidos poderão ser utilizados somente com o intuito de prover melhorias de performance, ajustes e correções de funcionalidade e aprimoramento do sistema como um todo. Estas informações não serão compartilhadas ou disponibilizadas para qualquer pessoa ou empresa que não seja do grupo VTEX, tais como, mas não se restringindo a parceiros, prestadores de serviço, agências, consultores ou outros Usuários.
-
-3.4. O Usuário concorda que, quando aplicável, o APP será considerado Operador de Dados, disponibilizando apenas a infraestrutura. Em nenhuma hipótese o APP disponibilizado pela VTEX será considerado Controlador de Dados Pessoais para fins de Lei de Proteção de Dados Pessoais. Aplica-se o previsto no MSA.
-
-### 4. SERVIÇOS
-
-4.1. Para uso dos Serviços disponíveis no APP, o Usuário deverá se certificar de que possui software compatível (última versão recomendada e/ou necessária) e acesso à Internet, uma vez que o funcionamento do APP e/ou a performance dos Serviços pode ser afetada por tais fatores.
-
-4.2. O Usuário entende e aceita que não será oferecida qualquer garantia por parte da VTEX em relação ao funcionamento dos Serviços do APP e à contínua disponibilização por parte da VTEX.
-
-4.3. A VTEX poderá disponibilizar o APP de forma gratuita aos seus Usuários, ou poderá realizar cobranças pelos Serviços a qualquer momento, a seu exclusivo critério, por meio de planos de assinatura ou modelos comerciais que serão apresentados ao Usuário no momento de contratação dos Serviços oferecidos pelo APP. Caso haja alteração de preços e condições no plano contratado, o Usuário será avisado com antecedência.
-
-4.3.1. A VTEX poderá alterar, a qualquer momento, o valor dos planos e cobranças sem respeitar um índice específico, mediante notificação prévia aos Usuários afetados pela alteração com no mínimo 30 (trinta) dias de antecedência.
-
-4.4. A VTEX não se responsabiliza por questões envolvendo assinaturas em serviços terceiros porventura necessários para a utilização do APP.
-
-### 5.  ASSINATURA DO APP
-
-5.1. O Usuário concorda e aceita que alguns APPs podem permitir que o Usuário adquira acesso ao conteúdo ou Serviços por assinatura (“Assinaturas Pagas”). As Assinaturas Pagas são renovadas automaticamente até que o APP seja desinstalado.
-
-5.1.1. A VTEX possui o direito de cancelar a Assinatura Paga do Usuário, caso ocorra falha no método de pagamento em caso de eventual renovação de assinatura. Certas Assinaturas Pagas podem oferecer uma avaliação gratuita antes de serem cobradas. Se o Usuário decidir cancelar a Assinatura Paga antes da VTEX iniciar a cobrança este deverá desinstalar o APP com pelo menos 24 horas de antecedência do término do período de avaliação concedido.
-
-### 6. OBRIGAÇÕES DO USUÁRIO
-
-6.1. O Usuário, ao usar o APP, declara de maneira expressa e inequívoca que está de acordo com estes Termos, e se compromete:
-
-a.  Não violar nenhuma disposição destes Termos;
-b.  Fornecer dados cadastrais verídicos e em conformidade com a legislação local;
-c.  Não disponibilizar informações falsas (i.e.: divulgação proposital e voluntária de informações as quais tenha conhecimento de que sejam falsas ou que sejam notoriamente falsas) e/ou praticar falsidade ideológica;
-d.  Não praticar qualquer ato contrário à boa-fé e aos usos e costumes das comunidades virtuais e que possam ofender qualquer direito de terceiros;
-e.  Não cometer fraude;
-f.  Não violar ou infringir direitos de terceiros, especialmente direitos de propriedade intelectual, direitos contratuais e direitos de intimidade e privacidade;
-g.  Não propagar, distribuir ou transmitir códigos destrutivos, quer tenham ou não causado danos reais;
-h.  Não reunir Dados Pessoais ou comerciais, incluindo mas não se limitando, a endereços de e-mail e/ou nomes de qualquer recurso da Internet, para fins comerciais, políticos, de benemerência ou outros, sem o consentimento dos proprietários desses dados ou outro fundamento ou base legal que autorize a coleta;
-i.  Não reproduzir, replicar, copiar, alterar, monitorar, modificar, criar obras derivativas a partir de, vender ou revender qualquer APP e/ou Serviço ou parte deles, que não sejam de domínio público;
-j.  Não realizar ou incentivar atividades ilegais, incluindo mas não se limitando, a promover ou facilitar o acesso, uso ou venda de substâncias ou dispositivos perigosos;
-k.  Cumprir todas as leis, normas, regras, princípios e regulamentações aplicáveis;
-l.  Utilizar o APP somente para a finalidade expressamente prevista nestes Termos.
-
-### 7. LIMITAÇÃO DE RESPONSABILIDADE DA VTEX
-
-7.1. Sem prejuízo do disposto no Master Services Agreement, a VTEX fica expressamente exonerada de qualquer responsabilidade por eventuais prejuízos sofridos pelo Usuário, ou por terceiros que, de qualquer modo, tenha origem ou estejam relacionados ao uso do APP e Serviços nele disponibilizados, incluindo, de maneira não exaustiva, danos diretos, indiretos, morais, punitivos, danos emergentes, lucros cessantes, perda de oportunidade e perda de dados, independentemente de qualquer aviso.
-
-7.2. A título meramente exemplificativo, a VTEX não será responsável por:
-
-7.2.1. Erros e/ou interrupções no uso do APP e seus Serviços, bem como pelo correto funcionamento dos seus módulos, integrações.
-
-7.2.2. Garantir que o APP ou a Plataforma VTEX funcionará livre de perdas, erros, defeitos, ataques, vírus, _trojans_, _malwares_, _worm_, _bot_, _backdoors_, _spywares_, _rootkit_, interferências, atividades de _hackers_ ou falhas de segurança, e o Usuário expressamente renuncia qualquer direito que possa ter nesse sentido.
-
-7.2.3. Situações de "caso fortuito" ou de "força maior", contemplados pelo artigo 393 do Código Civil Brasileiro.
-
-7.2.4. Violações de dados e informações resultantes de (i) atos de funcionários, prepostos ou de pessoas autorizadas pelo Usuário a operar o APP ou a Plataforma VTEX, ou de (ii) ações criminosas ou irregulares de terceiros que não possam ser evitadas por estarem fora dos limites da previsibilidade técnica quando da sua ocorrência.
-
-7.2.5. Impossibilidade do Usuário de usufruir dos Serviços, quando o motivo decorrer de (i) término ou cancelamento da Assinatura Paga dos APPs; (ii) descontinuação, pela VTEX, da oferta de determinado APP na Plataforma VTEX; (iii) solicitações de serviços que não sejam de obrigação da VTEX.
-
-7.2.6. Quaisquer investimentos, dispêndios ou compromissos assumidos pelo Usuário com relação a estes Termos ou com o uso pelo Usuário dos APPs e Serviços nele disponíveis;
-
-7.2.7. Danos relativos a qualquer acesso não autorizado aos APPs ou à Plataforma VTEX, bem como modificação, exclusão, destruição, dano, prejuízo ou falha no armazenamento de qualquer conteúdo ou dado do Usuário.
-
-### 8. CONFIDENCIALIDADE
-
-8.1. Sem prejuízo do disposto no Master Services Agreement, mediante aceitação destes Termos, o Usuário terá acesso a informações sobre o APP em seus aspectos funcionais, operacionais, estratégicos, conceituais, visuais e inovadores (“Informações Confidenciais”).
-
-8.2. O Usuário se compromete a evitar a divulgação, publicação, replicação ou compartilhamento de dados, telas, códigos, lógica e recursos sigilosos do APP, bem como a não copiar e reproduzir sob nenhuma forma, ou armazenar as Informações Confidenciais, sob qualquer forma.
-
-8.2.1. Todas as Informações Confidenciais que sejam fornecidas ao Usuário e respectivos funcionários, ou colaboradores, de forma escrita (incluindo registros eletrônicos) ou verbal, serão tratadas sob a mais estrita confidencialidade.
-
-8.3. O Usuário obriga-se a manter as Informações Confidenciais em sigilo, utilizando o mesmo nível de cuidado e discrição para evitar a divulgação, publicação ou disseminação de tais Informações Confidenciais a qualquer terceiro que aquele dispensado a suas próprias informações similares que não deseja sejam divulgadas, publicadas ou disseminadas.
-
-8.4. Caso o Usuário torne-se legalmente obrigado a revelar qualquer das Informações Confidenciais, ele prontamente notificará a VTEX sobre tal obrigação. Adicionalmente, o Usuário somente revelará a parte das Informações Confidenciais a respeito da qual for legalmente requisitada, bem como envidará seus melhores esforços para utilizar todos os procedimentos disponíveis para assegurar que as Informações Confidenciais assim reveladas permaneçam em sigilo.
-
-8.4.1. As obrigações acima não serão aplicáveis a quaisquer Informações Confidenciais que, (1) anteriormente ao seu recebimento pelo Usuário tenham se tornado públicas ou chegado ao poder do Usuário por uma fonte que não da VTEX, ou (2) após o recebimento pelo Usuário, tenham se tornado públicas por qualquer meio que não como consequência de uma violação de sua obrigação aqui prevista, ou (3) tenham sido legalmente adquiridas pelo Usuário sem uma obrigação de sigilo de um terceiro que não estivesse sob obrigação de manter sigilo das Informações Confidenciais, ou (4) tenham sido independentemente desenvolvidas pelo Usuário.
-
-### 9. PROPRIEDADE INTELECTUAL
-
-9.1. A titularidade e os direitos de propriedade sobre o APP e Serviços nele disponíveis são e devem permanecer de titularidade e propriedade exclusiva da VTEX, sendo, por estes Termos, apenas autorizado o uso do APP e dos Serviços pelo Usuário. O Usuário não pode modificar ou remover qualquer identificativo de marca da VTEX, tampouco seu nome comercial, dos locais onde ele aparecer no APP ou na Plataforma VTEX. Nenhuma disposição aqui contida será passível de outorgar, ou será considerada como tendo outorgado, ao Usuário qualquer direito sobre a marca VTEX e sua designação comercial.
-
-9.2. O Usuário não poderá contestar ou assessorar ou cooperar com terceiros para contestar a marca ou o nome comercial da VTEX ou seu registro, nem poderá buscar registrar qualquer marca ou nome comercial passível de causar confusão com a marca ou nome comercial da VTEX.
-
-9.3. O acesso fornecido ao APP, pela VTEX ao Usuário, não implica em qualquer autorização para reprodução dos direitos autorais e propriedade intelectual de propriedade da VTEX.
-
-### 10. CANCELAMENTO DE ASSINATURA
-
-10.1. A VTEX, a seu exclusivo critério, poderá, sem prejuízo de outras medidas, suspender acesso do Usuário e remover qualquer e/ou todo o conteúdo criado pelo Usuário através do APP, a qualquer momento em caso de violação destes Termos, sem o direito de qualquer multa ou indenização em favor do Usuário.
-
-10.2. O Usuário poderá a qualquer momento cancelar a assinatura do APP e suspender os Serviços sem que seja devida qualquer multa e/ou indenização. Nesta hipótese, entretanto, quaisquer valores eventualmente pagos pelo Usuário em caso de Assinatura Paga não serão restituídos.
-
-### 11. DISPOSIÇÕES GERAIS
-
-11.1. A VTEX reserva-se o direito de descontinuar, alterar ou adicionar recursos e serviços no APP, a qualquer tempo e a seu exclusivo critério.
-
-11.2. A VTEX reserva-se, ainda, o direito de, a qualquer tempo, modificar estes Termos. Tais modificações serão disponibilizadas no site da VTEX e serão automaticamente incorporadas a estes Termos.
-
-11.3. Na omissão do disposto neste Termos aplicar-se-á o disposto no Master Services Agreement.
-
-11.4. As Partes estabelecem que estes Termos serão regidos e interpretados de acordo com as leis indicadas no Master Services Agreement firmado entre o Usuário e a VTEX, e todas as controvérsias oriundas destes Termos serão resolvidas de acordo com o método de solução de conflitos indicado no respectivo Master Partner Agreement.
-
-11.5. A tolerância em caso de eventual descumprimento ou atraso no cumprimento de quaisquer obrigações estipuladas nestes Termos não constituirá novação ou afetará tais direitos, que poderão ser exercidos a qualquer tempo, e tampouco implicará em alteração nas condições convencionadas nestes Termos.
+If for any reason a court of competent jurisdiction finds any provision or portion of these Terms of Service to be unenforceable, the remainder of these Terms of Service will continue in full force and effect. Any waiver of any provision of these Terms of Service will be effective only if in writing and signed by an authorized representative of Usedesk. Usedesk will be entitled to injunctive or other equitable relief (without the obligations of posting any bond or surety) in the event of any breach or anticipatory breach by you. Usedesk operates and controls the Usedesk Service from its offices in the Russian Federation. The Service is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation. Accordingly, those persons who choose to access the Usedesk Service from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. These Terms of Service (which include and incorporate the Usedesk Privacy Policy) contains the entire understanding, and supersedes all prior understandings, between you and Usedesk concerning its subject matter, and cannot be changed or modified by you. The section headings used in this Agreement are for convenience only and will not be given any legal import.
