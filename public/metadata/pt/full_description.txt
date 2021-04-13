@@ -1,8 +1,0 @@
-## O que é a Usedesk?
-Atendimento ao cliente  de qualidade começa com a Usedesk! A missão da Usedesk é melhorar a maneira como você interage com seus clientes. Conosco, você será capaz de responder e entender as dúvidas de seus clientes de forma mais eficaz - tudo em uma única janela. Tenha com um atendimento ao cliente de qualidade, tenha a Usedesk.
-
-## Como o widget Usedesk pode ajudar seu negócio?
-Com a ajuda do widget no seu site, os clientes encontrarão o artigo certo na base de conhecimento pelas palavras-chave. Se o widget não tiver as informações corretas, ele se transforma em um formulário de feedback. Um cliente enviará uma solicitação de seu site e seus funcionários a verão no UseDesk.
-
-## Como começar?
-Você só precisa selecionar seu domínio Usedesk, encontrar seu widget_ID e colá-lo abaixo.

@@ -1,17 +1,16 @@
 {
   "name": "Usedesk",
-  "headline": "20 communication channels, all messengers, mail, calls, social networks are now just a click away",
-  "overview": "Usedesk Widget is a widget on your website with in-built Knowledge base. It eases the search for useful articles and helps send questions to the support department from the website.",
+  "headline": "20 communication channels, all messengers, mail, calls, social networks are now just a click away.",
+  "overview": "Simplify the search for useful articles about your products and make it easier for your customers to get help from support.",
   "features": [
     "Connect your website to Usedesk",
     "Customize appearance",
     "Automate your work",
     "Manage conversations",
-    "Simple integrations",
-    "Track each operator's response to your customers' speed and quality"
+    "Integrate easily"
   ],
-  "websiteURL": "https://vtex.com/",
+  "websiteURL": "https://usedesk.com/",
   "support": {
-    "url": "https://support.vtex.com/hc/requests"
+    "url": "https://usedesk.com/"
   }
 }

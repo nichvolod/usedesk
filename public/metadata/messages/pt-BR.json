@@ -1,17 +1,16 @@
 {
   "name": "Usedesk",
-  "headline": "20 canais de comunicação, todos os mensageiros, email, redes sociais agora a apenas um clique de distância",
-  "overview": "Usedesk Widget é um widget em seu site com base de conhecimento integrada. Ele facilita a busca de artigos úteis e ajuda a enviar perguntas ao departamento de suporte a partir do site",
+  "headline": "20 canais de comunicação, todos os chats, e-mail e redes sociais estão a apenas um clique de distância.",
+  "overview": "Simplifique a busca de artigos úteis sobre seus produtos e torne  a vida de seus clientes mais fácil ao pedirem ajuda ao suporte de atendimento.",
   "features": [
     "Conecte seu site ao Usedesk",
-    "Personalizar aparência",
+    "Personalize a aparência",
     "Automatize seu trabalho",
-    "Gerenciar conversas",
-    "Integrações simples",
-    "Rastreie a resposta de cada operadora à velocidade e qualidade de seus clientes"
+    "Gerencie as conversas",
+    "Integre-se facilmente"
   ],
-  "websiteURL": "https://vtex.com/",
+  "websiteURL": "https://usedesk.com/",
   "support": {
-    "url": "https://support.vtex.com/hc/requests"
+    "url": "https://usedesk.com/"
   }
 }
